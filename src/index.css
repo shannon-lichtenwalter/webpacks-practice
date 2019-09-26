@@ -1,0 +1,10 @@
+div {
+  width: 500px;
+  height: 400px;
+  background-color: pink;
+  border: 10px solid turquoise;
+  text-align: center;
+  color: grey;
+  text-decoration: underline;
+  padding-top: 100px;
+}
